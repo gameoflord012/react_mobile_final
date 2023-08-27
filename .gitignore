@@ -19,6 +19,6 @@ web-build/
 # env
 .env
 
-.aab
-.apks
-.apk
+*.aab
+*.apks
+*.apk
