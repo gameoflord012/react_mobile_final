@@ -4,7 +4,15 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "jobsift",
-    "slug": "jobsift"
+    "name": "jobsearch",
+    "slug": "jobsearch",
+    "extra": {
+      "eas": {
+        "projectId": "be82146f-4080-431e-9ced-daaba1e0ed43"
+      }
+    },
+    "android": {
+      "package": "com.swordmaster.jobsearch"
+    }
   }
 }
